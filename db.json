@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "contact": "Alta",
+      "surname": "Imanalieva",
+      "phone": "02342342424",
+      "id": 1
+    },
+    {
+      "contact": "asdfasd",
+      "surname": "df",
+      "phone": "1212",
+      "id": 2
+    },
+    {
+      "contact": "aktan",
+      "surname": "tears",
+      "phone": "2374234234",
+      "id": 3
+    },
+    {
+      "contact": "sezim",
+      "surname": "ydyrysova",
+      "phone": "234567890",
+      "id": 4
+    }
+  ]
+}
